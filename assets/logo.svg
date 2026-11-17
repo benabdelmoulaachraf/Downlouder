@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="300" viewBox="0 0 960 300" role="img" aria-labelledby="title desc">
+  <title id="title">Downlouder</title>
+  <desc id="desc">Logo bleu glacier pour un site de téléchargement d’applications de travail</desc>
+  <defs>
+    <linearGradient id="ice" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#DDF8FF"/>
+      <stop offset="1" stop-color="#79D7F2"/>
+    </linearGradient>
+  </defs>
+  <g transform="translate(58 46)">
+    <rect x="0" y="0" width="208" height="208" rx="58" fill="#10283B"/>
+    <path d="M73 53v18H59a14 14 0 0 0-14 14v75a14 14 0 0 0 14 14h90a14 14 0 0 0 14-14V85a14 14 0 0 0-14-14h-14V53" fill="none" stroke="url(#ice)" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M104 42v91m-29-28 29 29 29-29" fill="none" stroke="url(#ice)" stroke-width="15" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M76 151h56" stroke="url(#ice)" stroke-width="10" stroke-linecap="round"/>
+  </g>
+  <text x="315" y="181" font-family="Arial, Helvetica, sans-serif" font-size="91" font-weight="750" letter-spacing="-3" fill="url(#ice)">Downlouder</text>
+</svg>

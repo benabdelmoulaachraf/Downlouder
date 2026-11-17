@@ -1,0 +1,17 @@
+FICHIERS A COPIER DANS CE DOSSIER (downloads) AVANT D'UTILISER LE SITE
+Ces fichiers sont trop gros pour etre livres ici, copiez-les depuis votre PC
+avec exactement ces noms :
+
+  IMP-DRIVER-DOWNLOADER.exe                (71 Mo)
+  vlc-3.0.17.4-win64.exe                   (43 Mo)
+  forticlientsetup_7_2_12_x64.exe          (233 Mo)
+  FoxitPDFReader20233_L10N_Setup_Prom.exe  (146 Mo)
+  GoogleDriveSetup.exe                     (177 Mo)
+  HP_SUPPORT.exe                           (173 Mo)
+  INSTALLATION_KASPERSKY.rar               (314 Mo)
+
+Ensuite, double-cliquez sur build-zips.bat pour creer les deux ZIP
+"Tout telecharger" (Downlouder-mes-outils.zip et Downlouder-logiciels.zip).
+
+Hebergement : GitHub Pages refuse les fichiers de plus de 100 Mo.
+Pour les gros fichiers, utilisez un serveur interne / NAS, ou les Releases GitHub.
